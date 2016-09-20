@@ -26,7 +26,7 @@ public class Hello {
     // FIXME: should check for null before calling method()
     a.method();
   }
-
+  //here in branch b34
   void mayLeakResource() throws IOException {
     OutputStream stream = Resources.allocateResource();
     if (stream == null) {
@@ -39,6 +39,7 @@ public class Hello {
       // FIXME: should close the stream
     }
   }
+
 
   /**
    * This method should be rewritten with nested try { ... } finally {
