@@ -27,6 +27,7 @@ public class Hello {
     a.method();
   }
   //here in branch b34
+  //here in branch b35
   void mayLeakResource() throws IOException {
     OutputStream stream = Resources.allocateResource();
     if (stream == null) {
