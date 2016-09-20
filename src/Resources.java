@@ -2,7 +2,7 @@
  * The Infer "Hello World" Java example.
  *
  * Click the "Analyze" button to run Infer.
- * Learn more about Infer at http://fbinfer.com
+ * Learn more about Infer at http://fbinfer.cosssssssssssssssssssm
  *
  */
 

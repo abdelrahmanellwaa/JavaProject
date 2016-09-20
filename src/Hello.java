@@ -23,7 +23,7 @@ public class Hello {
   void mayCauseNPE() {
     Random rng = new Random();
     Pointers.A a = Pointers.mayReturnNull(rng.nextInt());
-    // FIXME: should check for null before calling method()
+    // FIXME: should check for null before calling method()dddd
     a.method();
   }
 
@@ -41,6 +41,7 @@ public class Hello {
   }
 
   /**
+   * fasfasgsdfgdfgdsfgdsffgdsf
    * This method should be rewritten with nested try { ... } finally {
    * ... } statements, or the possible exception raised by fis.close()
    * should be swallowed.
