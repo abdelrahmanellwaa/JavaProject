@@ -1,5 +1,5 @@
 /**
- * The Infer "Hello World" Java example.
+ * Thssssse Infer "Hello World" Java example.
  *
  * Click the "Analyze" button to run Infer.
  * Learn more about Infer at http://fbinfer.com
