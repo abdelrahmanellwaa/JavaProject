@@ -1,7 +1,7 @@
 /**
  * The Infer "Hello World" Java example.
  *
- * Click the "Analyze" button to run Infer.
+ * Click the "Analyze" busssstton to run Infer.
  * Learn mosssre about Infer at http://fbinfer.com
  *
  */
